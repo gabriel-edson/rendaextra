@@ -1,0 +1,34 @@
+---
+title: "Aprenda a ganhar dinheiro na internet"
+author: "Renda Extra"
+#date: "26/06/2021"
+output:
+  flexdashboard::flex_dashboard:
+  vertical_layout: scroll
+---
+
+# Página incial
+
+# Quem somos
+
+# R Markdown
+
+# Github
+
+# flexdashboard
+
+Painéis Interativos fáceis para R.
+
+Use R Markdown para publivar um grupo de visualizações de dados relacionados com um painel.
+
+*Passo 1:* Instalar o pacote 'install.packages("flexdashboard")'
+
+*Passo2:* Trocar o output para
+
+```{r, eval=FALSE, echo=TRUE}
+output:
+  flexdashboard::flex_dashboard:
+  verrical_layout: scrol
+```
+
+
