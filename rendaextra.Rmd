@@ -22,7 +22,7 @@ Ganhar dinheiro normalmente tem sido associado e restrito à rota tradicional 'o
 
 Com o quão acessível a Internet é hoje, você acreditaria em mim se eu dissesse que o número de pessoas que acessam a Internet todos os dias ainda está aumentando?
 
-<center>**Marketing Digital**</center>
+<center><font size="5"> **MARKETING DIGITAL** </font> </center>
 
 O marketing sempre foi uma questão de conectar-se com o seu público-alvo no lugar certo e na hora certa. Hoje, isso significa que você precisa encontrá-los onde eles já estão passando tempo: na internet.
 
@@ -42,6 +42,12 @@ Como alternativa, talvez você queira aumentar as vendas de um produto específi
 
 Seja qual for o caso, é mais fácil moldar uma estratégia de marketing digital depois de determinar os maiores objetivos da sua empresa.
 
+<br/>
+<center>
+[![](fig/drop2.gif){width=400px}](https://go.hotmart.com/R55961010T)
+</center>
+<br/>
+
 Já mencionamos isso antes, mas um dos maiores benefícios do marketing digital é a oportunidade de atingir públicos específicos - no entanto, você não pode aproveitar esse benefício se não tiver identificado primeiro seu público-alvo.
 
 Claro, é importante observar que seu público-alvo pode variar dependendo do canal ou meta (s) que você tem para um produto ou campanha específica.
@@ -55,6 +61,12 @@ Como acontece com qualquer coisa, o orçamento que você determina realmente dep
 Se você está se concentrando em técnicas de inbound marketing, como SEO, mídia social e criação de conteúdo para um site já existente, a boa notícia é que você não precisa de muito orçamento. Com o inbound marketing, o foco principal é a criação de conteúdo de alta qualidade que seu público deseje consumir, o que, a menos que você planeje terceirizar o trabalho, o único investimento de que você precisará é seu tempo.
 
 Você pode começar hospedando um site e criando conteúdo usando o CMS da HubSpot . Para aqueles com orçamento apertado, você pode começar a usar o WordPress hospedado no WP Engine, usando um simples deles do StudioPress, e construindo seu site sem código usando o Construtor de Sites Elementor para WordPress .
+
+<br/>
+<center>
+[![](fig/homeoffice2.gif){width=400px}](https://app.monetizze.com.br/r/AMZ16475096)
+</center>
+<br/>
 
 Com técnicas de saída, como publicidade online e compra de listas de e-mail, há, sem dúvida, algumas despesas. O custo depende do tipo de visibilidade que você deseja receber como resultado da publicidade.
 
@@ -74,6 +86,12 @@ Por exemplo, se você gasta tempo construindo personas de comprador abrangentes 
 
 No entanto, se a publicidade paga fizer parte da sua estratégia digital, os resultados podem vir ainda mais rápidos.
 
+<br/>
+<center>
+[![](fig/binary2.gif){width=400px}](https://app.monetizze.com.br/r/AAA16457232)
+</center>
+<br/>
+
 Em última análise, é recomendável focar na construção de seu alcance orgânico (ou 'gratuito') usando conteúdo, SEO e mídia social para um sucesso sustentável e de longo prazo.
 
 Em caso de dúvida, experimente os dois e repita seu processo à medida que aprende quais canais - pagos ou gratuitos - têm o melhor desempenho para sua marca.
@@ -85,6 +103,12 @@ Claro, qualquer conteúdo que você criar deve ser interessante e envolvente par
 Outro componente importante do marketing digital é o marketing móvel. Na verdade, o uso de smartphones como um todo é responsável por 69% do tempo gasto no consumo de mídia digital nos EUA, enquanto o consumo de mídia digital baseado em desktop representa menos da metade - e os EUA ainda não são o maior fã de dispositivos móveis em comparação com outros países.
 
 Isso significa que é essencial otimizar seus anúncios digitais, páginas da web, imagens de mídia social e outros ativos digitais para dispositivos móveis. Se sua empresa tem um aplicativo móvel que permite que os usuários se envolvam com sua marca ou comprem seus produtos, seu aplicativo também se enquadra no marketing digital.
+
+<br/>
+<center>
+[![](fig/empreendedor2.gif){width=400px}](https://go.hotmart.com/X55966100S)
+</center>
+<br/>
 
 Aqueles que se envolvem com sua empresa online por meio de dispositivos móveis precisam ter a mesma experiência positiva que teriam no desktop. Isso significa implementar um design de site amigável para dispositivos móveis ou responsivo para tornar a navegação amigável para os usuários de dispositivos móveis. Também pode significar reduzir o comprimento dos formulários de geração de leads para criar uma experiência descomplicada para as pessoas que baixam seu conteúdo em qualquer lugar. Quanto às suas imagens de mídia social, é importante sempre ter um usuário móvel em mente ao criá-las, pois as dimensões da imagem são menores em dispositivos móveis e o texto pode ser cortado.
 
