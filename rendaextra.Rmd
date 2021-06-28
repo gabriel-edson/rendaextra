@@ -4,85 +4,43 @@ title: "Aprenda a ganhar dinheiro na internet"
 #date: "26/06/2021"
 
 output:
-    flexdashboard::flex_dashboard:
-    theme: paper
-    source_code: embed
-
+    html_fragment
 ---
 
 <meta name="viewport" content="width=device-width">
-<body bgcolor="yellow">
 
 # Ganhar dinheiro online
 
-<center><font size="8"> **IMAGINA TRABALHAR NO CONFORTO DE SUA CASA!!** </font></center>
+<center><font size="6"> **IMAGINA TRABALHAR NO CONFORTO DE SUA CASA!!** </font></center>
 
-<center><font size="8"> **GANHANDO 5 DÍGITOS POR MÊS!!** </font></center>
+<center><font size="6"> **GANHANDO 5 DÍGITOS POR MÊS!!** </font></center>
 
-<center><font size="8"> **CONQUISTE SUA INDEPENDENCIA FINANCEIRA!!** </font></center>
+<center><font size="6"> **CONQUISTE SUA INDEPENDENCIA FINANCEIRA!!** </font></center>
 
 <center>
+
 <font size="4">
 
-Imagina conquistar sua indepêndencia financeira. Imagina acordar pela manhã e ver em seu celular notificação de dinheiro na conta. Ganhar dinheiro dormindo.
+<p>Ganhar dinheiro normalmente tem sido associado e restrito à rota tradicional 'off-line'. Com a Internet tomando conta de grande parte de nossas vidas, mais pessoas estão procurando maneiras de ganhar dinheiro online.</p>
 
-Aqui tem algumas sugestões de curso que você pode realizar para conseguir ganhar dinheiro sem sair de casa.
+Com o quão acessível a Internet é hoje, você acreditaria em mim se eu dissesse que o número de pessoas que acessam a Internet todos os dias ainda está aumentando?
+
+O marketing sempre foi uma questão de conectar-se com o seu público-alvo no lugar certo e na hora certa. Hoje, isso significa que você precisa encontrá-los onde eles já estão passando tempo: na internet.
 
 ![](imagens/1.png){width=350px}
 
+O marketing digital ajuda você a atingir um público maior do que você poderia através dos métodos tradicionais e direcionar os clientes em potencial que têm maior probabilidade de comprar seu produto ou serviço. Além disso, costuma ser mais econômico do que a publicidade tradicional e permite que você avalie o sucesso diariamente e gire conforme achar adequado.
+
 ![](imagens/2.webp){width=350px}
-
-<font size="10">**Dropshipping Para Iniciantes**</font>
-</center>
-
-Olá,
-
-Você sabe que existem muitos métodos por aí para ganhar dinheiro na internet.
-
-Só que infelizmente, a maioria dos métodos promete o mundo, mas na verdade não ajuda você a obter os resultados que deseja.
-
-Mas, e se houvesse um método simples que colocaria muito rapidamente dinheiro no seu bolso?
-
-- Não no próximo ano...
-
-- Não no próximo mês...
-
-Este método funciona **RÁPIDO**. Você pode ganhar dinheiro **AINDA ESSA SEMANA!** 
-
-Às vezes em poucas horas depois de começar.A melhor parte?
-
-Você não precisa investir 1 real se quer em **ESTOQUE**!
-
-Nunca vai precisar investir seu próprio dinheiro em produtos.
-
-Você é pago **PRIMEIRO**!
-
-Para descobrir que método é esse, clique no link abaixo agora!
-
-Desejo todo sucesso!
-
-**O que é dropshipping?**
-
-O termo dropshipping nasceu da junção de 2 palavras: drop, que significa largar, e shipping, que pode ser traduzida como remessa.
-
-Afinal, dropshipping, como funciona?
-
-Conhecendo essa origem fica muito mais fácil entender a utilidade da técnica para as lojas virtuais: basicamente, deixar a entrega e o estoque dos produtos por conta de outra empresa.
-
-Com o dropshipping, o e-commerce faz a venda do produto e envia a ordem dessa transação para o fornecedor parceiro. É o fornecedor quem vai enviar o item para o cliente em nome do comércio eletrônico, que tem como lucro a diferença entre o preço cobrado para o usuário e aquele cobrado pelo parceiro. Viu como não tem mistério?
-
-Se você ainda não ouviu falar a respeito dessa técnica, é bem possível que ache que ela é relativamente nova. Mas, na verdade, não é bem assim. Canais de TV e até algumas estações de rádio já usavam esse modelo de gestão de logística há muitos anos, oferecendo em sua programação alguns produtos que podiam ser comprados pelo telefone.
-
-Entre as lojas virtuais, grandes nomes vêm se mantendo de pé desde o começo por meio de técnicas de dropshipping. É o caso, por exemplo, de um dos maiores comércios virtuais dos Estados Unidos, aberto em 2002: Wayfair. E isso, claro, sem falarmos nos varejistas chineses, que têm usado plataformas como o eBay, AliExpress e Deal Extreme para oferecer seus produtos há anos!
 
 <center>
 
-[![](fig/drop1.gif){width=400px}](https://go.hotmart.com/R55961010T)
+[![](fig/drop.gif){width=400px}](https://go.hotmart.com/R55961010T)
 
-[![](fig/homeoffice1.gif){width=400px}](https://app.monetizze.com.br/r/AMZ16475096)
+[![](fig/homeoffice.gif){width=400px}](https://app.monetizze.com.br/r/AMZ16475096)
 
-[![](fig/binary1.gif){width=400px}](https://app.monetizze.com.br/r/AAA16457232)
+[![](fig/binary.gif){width=400px}](https://app.monetizze.com.br/r/AAA16457232)
 
-[![](fig/empreendedor1.gif){width=400px}](https://go.hotmart.com/X55966100S)
+[![](fig/empreendedor.gif){width=400px}](https://go.hotmart.com/X55966100S)
 
 </center>
