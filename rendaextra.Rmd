@@ -4,43 +4,134 @@ title: "Aprenda a ganhar dinheiro na internet"
 #date: "26/06/2021"
 
 output:
-    html_fragment
+    flexdashboard::flex_dashboard
 ---
 
 <meta name="viewport" content="width=device-width">
 
-# Ganhar dinheiro online
+<center> <font size="5"> **IMAGINA TRABALHAR NO CONFORTO DE SUA CASA!!**
+ 
+ **GANHANDO 5 DÍGITOS POR MÊS!!**
 
-<center><font size="6"> **IMAGINA TRABALHAR NO CONFORTO DE SUA CASA!!** </font></center>
+ **CONQUISTE SUA INDEPENDENCIA FINANCEIRA!!** </font> </center>
 
-<center><font size="6"> **GANHANDO 5 DÍGITOS POR MÊS!!** </font></center>
-
-<center><font size="6"> **CONQUISTE SUA INDEPENDENCIA FINANCEIRA!!** </font></center>
-
-<center>
-
+<div align="justify">
 <font size="4">
 
-<p>Ganhar dinheiro normalmente tem sido associado e restrito à rota tradicional 'off-line'. Com a Internet tomando conta de grande parte de nossas vidas, mais pessoas estão procurando maneiras de ganhar dinheiro online.</p>
+Ganhar dinheiro normalmente tem sido associado e restrito à rota tradicional 'off-line'. Com a Internet tomando conta de grande parte de nossas vidas, mais pessoas estão procurando maneiras de ganhar dinheiro online.
 
 Com o quão acessível a Internet é hoje, você acreditaria em mim se eu dissesse que o número de pessoas que acessam a Internet todos os dias ainda está aumentando?
 
+<center>**Marketing Digital**</center>
+
 O marketing sempre foi uma questão de conectar-se com o seu público-alvo no lugar certo e na hora certa. Hoje, isso significa que você precisa encontrá-los onde eles já estão passando tempo: na internet.
 
-![](imagens/1.png){width=350px}
+<br/>
+
+<center>
+![](imagens/1.png){width=300px}
+</center>
+
+<br/>
 
 O marketing digital ajuda você a atingir um público maior do que você poderia através dos métodos tradicionais e direcionar os clientes em potencial que têm maior probabilidade de comprar seu produto ou serviço. Além disso, costuma ser mais econômico do que a publicidade tradicional e permite que você avalie o sucesso diariamente e gire conforme achar adequado.
 
-![](imagens/2.webp){width=350px}
+Quando você está começando com o marketing digital, é fundamental que comece identificando e definindo seus objetivos, já que você criará sua estratégia de forma diferente dependendo desses objetivos. Por exemplo, se sua meta é aumentar o conhecimento da marca, você pode querer prestar mais atenção para alcançar novos públicos por meio da mídia social.
+
+Como alternativa, talvez você queira aumentar as vendas de um produto específico - se for esse o caso, é mais importante que você se concentre no SEO e na otimização do conteúdo para obter compradores em potencial em seu site. Além disso, se as vendas são sua meta, você pode testar campanhas PPC para direcionar o tráfego por meio de anúncios pagos.
+
+Seja qual for o caso, é mais fácil moldar uma estratégia de marketing digital depois de determinar os maiores objetivos da sua empresa.
+
+Já mencionamos isso antes, mas um dos maiores benefícios do marketing digital é a oportunidade de atingir públicos específicos - no entanto, você não pode aproveitar esse benefício se não tiver identificado primeiro seu público-alvo.
+
+Claro, é importante observar que seu público-alvo pode variar dependendo do canal ou meta (s) que você tem para um produto ou campanha específica.
+
+Por exemplo, talvez você tenha percebido que a maior parte do seu público no Instagram é mais jovem e prefere memes engraçados e vídeos rápidos - mas o seu público no LinkedIn tende a ser de profissionais mais velhos que procuram conselhos mais táticos. Você vai querer variar seu conteúdo para atrair esses públicos-alvo diferentes.
+
+Se você está começando do zero, sinta-se à vontade para dar uma olhada em Como encontrar seu público-alvo.
+
+Como acontece com qualquer coisa, o orçamento que você determina realmente depende de quais elementos de marketing digital você deseja adicionar à sua estratégia.
+
+Se você está se concentrando em técnicas de inbound marketing, como SEO, mídia social e criação de conteúdo para um site já existente, a boa notícia é que você não precisa de muito orçamento. Com o inbound marketing, o foco principal é a criação de conteúdo de alta qualidade que seu público deseje consumir, o que, a menos que você planeje terceirizar o trabalho, o único investimento de que você precisará é seu tempo.
+
+Você pode começar hospedando um site e criando conteúdo usando o CMS da HubSpot . Para aqueles com orçamento apertado, você pode começar a usar o WordPress hospedado no WP Engine, usando um simples deles do StudioPress, e construindo seu site sem código usando o Construtor de Sites Elementor para WordPress .
+
+Com técnicas de saída, como publicidade online e compra de listas de e-mail, há, sem dúvida, algumas despesas. O custo depende do tipo de visibilidade que você deseja receber como resultado da publicidade.
+
+Por exemplo, para implementar PPC usando o Google AdWords, você fará lances contra outras empresas em seu setor para aparecer no topo dos resultados de pesquisa do Google para palavras-chave associadas ao seu negócio. Dependendo da competitividade da palavra-chave, isso pode ser razoavelmente acessível ou extremamente caro, por isso é uma boa ideia se concentrar na construção de seu alcance orgânico também.
+
+<br/>
+
+<center>
+![](imagens/2.webp){width=300px}
+</center>
+
+<br/>
+
+Uma estratégia de marketing digital provavelmente precisa de aspectos pagos e gratuitos para ser realmente eficaz.
+
+Por exemplo, se você gasta tempo construindo personas de comprador abrangentes para identificar as necessidades de seu público e se concentra na criação de conteúdo online de qualidade para atraí-los e convertê-los, provavelmente verá bons resultados nos primeiros seis meses, apesar do mínimo de anúncios gastar.
+
+No entanto, se a publicidade paga fizer parte da sua estratégia digital, os resultados podem vir ainda mais rápidos.
+
+Em última análise, é recomendável focar na construção de seu alcance orgânico (ou 'gratuito') usando conteúdo, SEO e mídia social para um sucesso sustentável e de longo prazo.
+
+Em caso de dúvida, experimente os dois e repita seu processo à medida que aprende quais canais - pagos ou gratuitos - têm o melhor desempenho para sua marca.
+
+Depois de conhecer seu público e ter um orçamento, é hora de começar a criar conteúdo para os vários canais que você vai usar. Esse conteúdo pode ser postagens em mídias sociais, postagens em blogs, anúncios PPC, conteúdo patrocinado, boletins informativos de marketing por e-mail e muito mais.
+
+Claro, qualquer conteúdo que você criar deve ser interessante e envolvente para o seu público, porque o objetivo do conteúdo de marketing é aumentar o reconhecimento da marca e melhorar a geração de leads.
+
+Outro componente importante do marketing digital é o marketing móvel. Na verdade, o uso de smartphones como um todo é responsável por 69% do tempo gasto no consumo de mídia digital nos EUA, enquanto o consumo de mídia digital baseado em desktop representa menos da metade - e os EUA ainda não são o maior fã de dispositivos móveis em comparação com outros países.
+
+Isso significa que é essencial otimizar seus anúncios digitais, páginas da web, imagens de mídia social e outros ativos digitais para dispositivos móveis. Se sua empresa tem um aplicativo móvel que permite que os usuários se envolvam com sua marca ou comprem seus produtos, seu aplicativo também se enquadra no marketing digital.
+
+Aqueles que se envolvem com sua empresa online por meio de dispositivos móveis precisam ter a mesma experiência positiva que teriam no desktop. Isso significa implementar um design de site amigável para dispositivos móveis ou responsivo para tornar a navegação amigável para os usuários de dispositivos móveis. Também pode significar reduzir o comprimento dos formulários de geração de leads para criar uma experiência descomplicada para as pessoas que baixam seu conteúdo em qualquer lugar. Quanto às suas imagens de mídia social, é importante sempre ter um usuário móvel em mente ao criá-las, pois as dimensões da imagem são menores em dispositivos móveis e o texto pode ser cortado.
+
+Existem muitas maneiras de otimizar seus ativos de marketing digital para usuários móveis e, ao implementar qualquer estratégia de marketing digital, é extremamente importante considerar como a experiência se traduzirá em dispositivos móveis. Ao garantir que isso esteja sempre em primeiro lugar, você criará experiências digitais que funcionam para seu público e, consequentemente, alcançará os resultados que espera.
+
+O marketing digital tem a ver com alcançar públicos-alvo por meio de conteúdo personalizado - tudo isso não pode acontecer sem uma pesquisa eficaz de palavras-chave.
+
+A realização de pesquisas de palavras-chave é fundamental para otimizar seu site e conteúdo para SEO e garantir que as pessoas possam encontrar sua empresa por meio de mecanismos de pesquisa. Além disso, a pesquisa de palavras-chave de mídia social também pode ser útil para comercializar seus produtos ou serviços em vários canais sociais.
+
+Mesmo que você não tenha um estrategista de SEO em tempo integral, convém realizar uma pesquisa de palavras-chave. Tente criar uma lista de palavras-chave de alto desempenho relacionadas a seus produtos ou serviços e considere variações de cauda longa para oportunidades adicionais.
+
+Por fim, para criar uma estratégia de marketing digital eficaz para o longo prazo, é vital que sua equipe aprenda como dinamizar a análise com base.
+
+Por exemplo, talvez depois de alguns meses você descubra que seu público não está mais tão interessado em seu conteúdo no Instagram - mas eles amam o que você cria no Twitter. Claro, esta pode ser uma oportunidade de reexaminar sua estratégia do Instagram como um todo, mas também pode ser um sinal de que seu público prefere um canal diferente para consumir conteúdo de marca.
+
+Como alternativa, talvez você descubra que uma página da web antiga não está recebendo o tráfego de antes. Você pode considerar atualizar a página ou se livrar dela totalmente para garantir que os visitantes encontrem o conteúdo mais recente e relevante para suas necessidades.
+
+O marketing digital oferece às empresas oportunidades incrivelmente flexíveis de crescimento contínuo - mas cabe a você tirar proveito delas.
+
+Estou pronto para experimentar o marketing digital. O que agora?
+Se você já faz marketing digital, é provável que esteja alcançando pelo menos alguns segmentos de seu público online. Sem dúvida, você pode pensar em algumas áreas de sua estratégia que poderiam ser melhoradas um pouco.
+
+Logo abaixo, eu coloquei algumas indicações de cursos que você pode estar fazendo, para você iniciar neste ramo. Vai lá conferir!
+
+</font>
+</div>
+
+<br/>
 
 <center>
 
 [![](fig/drop.gif){width=400px}](https://go.hotmart.com/R55961010T)
 
+<br/>
+
 [![](fig/homeoffice.gif){width=400px}](https://app.monetizze.com.br/r/AMZ16475096)
 
+<br/>
+
 [![](fig/binary.gif){width=400px}](https://app.monetizze.com.br/r/AAA16457232)
+
+<br/>
 
 [![](fig/empreendedor.gif){width=400px}](https://go.hotmart.com/X55966100S)
 
 </center>
+
+<br/>
+
+<font size="5">**Desejo Sucesso!!**</font>
